@@ -1,2 +1,2 @@
 # MSWordRaytracer
-A raytracer written in mMicrosoft Word
+A raytracer written in Microsoft Word
